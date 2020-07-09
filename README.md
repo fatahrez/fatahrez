@@ -1,5 +1,5 @@
 ### Hi there Nerd 👋
-I love solving problems. Ask me anything Android, Machine Learning or Django. 
+I love solving problems. Ask me anything Android, Machine Learning or Django. Outside coding life I like watching and playing football, also listening to music.
 
 Fun fact, I love comedy (Might be a stand up comedian someday). I work at Moringa School where I mentor future rockstar coders. If you would like to reach out follow me on [Twitter](https://twitter.com/Abdullfertah)
 
