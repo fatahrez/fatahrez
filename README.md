@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there Nerd 👋
+I love solving problems. Ask me anything Android, Machine Learning or Django. 
+
+Fun fact, I love comedy (Might be a stand up comedian someday). I work at Moringa School where I mentor future rockstar coders. If you would like to reach out follow me on [Twitter](https://twitter.com/Abdullfertah)
+
 
 <!--
 **fatahrez/fatahrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
